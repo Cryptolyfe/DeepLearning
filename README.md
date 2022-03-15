@@ -1,2 +1,3 @@
 # DeepLearning
-Homework for Deep Learning &amp; data
+
+*see jupyter lab, notebook or copy and paste code into VS code to run
